@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there I'm Helen 👋
+
+Marketing Strategist turned Front-End Developer specializing in React.js and React Native. With a successful 15-year career in marketing, I have driven exponential growth for digital businesses by employing systematic methods grounded in human psychology and behavioral economics research. As my interests evolved, I became passionate about enhancing conversion rates for websites, apps, and online stores and decided to embark on a journey to become a Front-End Developer, combining my marketing expertise with technical skills to create compelling and user-friendly digital experiences.
 
 <!--
 **helenec295/helenec295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
