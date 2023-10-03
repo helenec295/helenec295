@@ -8,7 +8,7 @@ Marketing Strategist turned Front-End Developer specializing in React.js and Rea
 
 #  
 
-### 🛠️ &nbsp;Languages and Tools  
+### 🧰 Languages and Tools  
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -24,14 +24,11 @@ Marketing Strategist turned Front-End Developer specializing in React.js and Rea
 <img align="left" alt="Googlecloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Wordpress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img align="left" alt="Woocommerce" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />  
+<br />
 
-</br>  
+#
 
-  
-#  
-
-
-### 📖 &nbsp;Latest Blog Posts  
+### 📖 Latest Blog Posts  
 
 In 2016 I have founded Insightout Digital with the goal of bringing consumer behavior research to digital advertising. Although I no longer work with clients on advertising campaigns, I continue blogging and consulting. If you're interested in consumer behavior, pricing, digital advertising, conversion rate optimization, and everything in between, please visit my blog.  
 
