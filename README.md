@@ -34,6 +34,9 @@ In 2016 I have founded Insightout Digital with the goal of bringing consumer beh
 
 🌐 <a href="https://insightoutdigital.com/">insightoutdigital.com</a>
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 
 
