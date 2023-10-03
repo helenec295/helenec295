@@ -24,7 +24,8 @@ Marketing Strategist turned Front-End Developer specializing in React.js and Rea
 <img align="left" alt="Googlecloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Wordpress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img align="left" alt="Woocommerce" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />  
-</br>
+</br>  
+
   
 #  
 
@@ -38,7 +39,8 @@ In 2016 I have founded Insightout Digital with the goal of bringing consumer beh
 - [Query Sculpting: Advanced Google Shopping Strategy](https://insightoutdigital.com/advanced-google-shopping-query-sculpting/)
 - [Beyond Discounts: The Strategy And Tactics of Pricing Fashion](https://insightoutdigital.com/strategy-and-tactics-of-pricing/)
 - [How life events change buying habits and why brands must advertise during a crisis](https://insightoutdigital.com/life-events-change-buying-habits/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->  
+
 
 
 
