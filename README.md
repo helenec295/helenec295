@@ -35,6 +35,11 @@ In 2016 I have founded Insightout Digital with the goal of bringing consumer beh
 🌐 <a href="https://insightoutdigital.com/">insightoutdigital.com</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Query Sculpting: Advanced Google Shopping Strategy](https://insightoutdigital.com/advanced-google-shopping-query-sculpting/)
+- [Beyond Discounts: The Strategy And Tactics of Pricing Fashion](https://insightoutdigital.com/strategy-and-tactics-of-pricing/)
+- [How life events change buying habits and why brands must advertise during a crisis](https://insightoutdigital.com/life-events-change-buying-habits/)
+- [The psychology of high converting landing pages](https://insightoutdigital.com/high-converting-landing-page-psychology/)
+- [New Year’s Resolutions: How to build a digital brand in 2020](https://insightoutdigital.com/how-to-build-a-digital-brand-in-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 
