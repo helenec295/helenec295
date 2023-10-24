@@ -37,9 +37,9 @@ In 2016 I have founded Insightout Digital with the goal of bringing consumer beh
 🌐 <a href="https://insightoutdigital.com/">insightoutdigital.com</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Choice Architecture: Nudging Visitors to Buy](https://insightoutdigital.com/choice-architecture-nudging-visitors-to-buy/)
 - [Query Sculpting: Advanced Google Shopping Strategy](https://insightoutdigital.com/advanced-google-shopping-query-sculpting/)
 - [Beyond Discounts: The Strategy And Tactics of Pricing Fashion](https://insightoutdigital.com/strategy-and-tactics-of-pricing/)
-- [How life events change buying habits and why brands must advertise during a crisis](https://insightoutdigital.com/life-events-change-buying-habits/)
 <!-- BLOG-POST-LIST:END -->  
 
 
